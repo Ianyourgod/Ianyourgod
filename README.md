@@ -1,5 +1,4 @@
-VERY good pogammer who abandons ZERO projects
-anyway i code in python, html, js, and i hate css
+Programmer. I use Javascript (In the web and node), HTML, CSS, Svelte, and Rust. I know a few other languages but I don't use them as often.
 
 <!---
 Ianyourgod/Ianyourgod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
