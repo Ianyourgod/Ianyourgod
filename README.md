@@ -1,1 +1,1 @@
-Programmer. I use Javascript (In the web and node), Svelte, and Rust (<-- rust my beloved). I know a few other languages but I don't use them as often.
+Hello! I'm a programmer & student. I use Rust (<-- rust my beloved), Javascript (In the web and node), and Svelte. I know a few other languages but I don't use them as often so I won't list them here.
